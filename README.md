@@ -19,8 +19,8 @@ implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version:
 Copy and paste it in the build.gradle folder dependency part
 
 ## How to run 
-- clone the project
-- Execute the following command gradle clean Test
+- clone the project with command 'git clone <repo Url>'
+- Execute the following command 'gradle clean Test'
 
 ## Report
 ![junitReport](https://github.com/Jahid019/Registration-Form-Automation-with-JUNIT/assets/112567359/218062fb-6b11-47c4-a18d-edb9e3bc7cfc)

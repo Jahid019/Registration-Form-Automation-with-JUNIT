@@ -1,9 +1,7 @@
 # Registration-Form-Automation-with-JUNIT
 
 ## Description 
-Here we will automate a demo registration form using selenium and JUnit and Genenrate Test reports. 
-in the registration form we have to fill our name,number, email,bio also upload image or any kind of data and finally submit it .
-in this project we have tested this things automatically with a tool selenium and successfully generate the test reports.
+This project automates the registration form submission process using JUnit, simplifying the testing and validation of registration functionality. With this automation suite, you can easily verify that user registrations on your website or application work as expected, reducing manual testing efforts and ensuring a smoother user experience.
 
 ## Server 
 https://www.digitalunite.com/practice-webform-learners
@@ -16,7 +14,7 @@ https://www.digitalunite.com/practice-webform-learners
 ## Prerequisite
 // https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
 
-- implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.12.1'
+implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.12.1'
 
 Copy and paste it in the build.gradle folder dependency part
 

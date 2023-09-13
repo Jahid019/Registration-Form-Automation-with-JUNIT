@@ -15,7 +15,8 @@ https://www.digitalunite.com/practice-webform-learners
 
 ## Prerequisite
 // https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
-implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.12.1'
+
+- implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.12.1'
 
 Copy and paste it in the build.gradle folder dependency part
 
